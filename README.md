@@ -1,4 +1,4 @@
-# MachineLearningStocks in Python: A Starter Project and Guide
+# MachineLearningStocks in Python
 
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
